@@ -22,3 +22,4 @@ mysqlToPostgres.js
 # ajout fichier ou répertoire à ignorer 
 archive/
 output.json
+test/conftest_copy.py
